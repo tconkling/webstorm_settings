@@ -66,10 +66,6 @@
   <action id="GotoSuperMethod">
     <keyboard-shortcut first-keystroke="meta alt up" />
   </action>
-  <action id="GotoSymbol">
-    <keyboard-shortcut first-keystroke="meta alt o" />
-    <keyboard-shortcut first-keystroke="shift meta t" />
-  </action>
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
   <action id="IntroduceConstant" />
@@ -106,6 +102,9 @@
     <keyboard-shortcut first-keystroke="shift meta alt up" />
   </action>
   <action id="RunDashboard.ShowConfigurations" />
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
   <action id="SelectIn">
     <keyboard-shortcut first-keystroke="alt f1" />
     <keyboard-shortcut first-keystroke="meta alt w" />
