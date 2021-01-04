@@ -3,9 +3,6 @@
     <option name="FIELD_PREFIX" value="" />
     <option name="IMPORT_SORT_MODULE_NAME" value="true" />
   </TypeScriptCodeStyleSettings>
-  <editorconfig>
-    <option name="ENABLED" value="false" />
-  </editorconfig>
   <codeStyleSettings language="TypeScript">
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <option name="INDENT_CASE_FROM_SWITCH" value="false" />
