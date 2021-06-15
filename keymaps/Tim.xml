@@ -10,6 +10,9 @@
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
+  <action id="CollapseRegionRecursively">
+    <keyboard-shortcut first-keystroke="meta alt subtract" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="CopyElement" />
   <action id="Debug">
@@ -26,7 +29,16 @@
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f3" />
   </action>
+  <action id="EditorDecreaseFontSize">
+    <keyboard-shortcut first-keystroke="meta alt minus" />
+  </action>
   <action id="EditorDuplicate" />
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="meta alt equals" />
+  </action>
+  <action id="EditorResetFontSize">
+    <keyboard-shortcut first-keystroke="meta alt 0" />
+  </action>
   <action id="EditorScrollBottom">
     <keyboard-shortcut first-keystroke="meta down" />
   </action>
@@ -36,6 +48,9 @@
   <action id="EvaluateExpression">
     <keyboard-shortcut first-keystroke="alt f8" />
     <keyboard-shortcut first-keystroke="meta u" />
+  </action>
+  <action id="ExpandRegionRecursively">
+    <keyboard-shortcut first-keystroke="meta alt add" />
   </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileStructurePopup">
